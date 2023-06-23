@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rakshak Kunchum"
+title                    : "Deepak Udayakumar"
 title_separator          : "-"
-name                     : "Rakshak Kunchum"
-description              : "Rakshak's academic homepage"
-url                      : "https://krakshak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Deepak Udayakumar"
+description              : "Deepak's academic homepage"
+url                      : "https://deepaku23.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rakshak Kunchum"
-  avatar           : "/images/rakshak.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Graduate Student at Northeastern University | Former Data Engineer at Dataweave"
+  name             : "Deepak Udayakumar"
+  avatar           : "/images/Deepak_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Science Graduate Student at Northeastern University | "
   location         : "Boston, Massachusetts"
   employer         : 
-  email            : "kunchum.r@northeastern.edu"
+  email            : "deepakuday23@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
@@ -114,13 +114,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "krakshak"
+  github           : "deepaku23"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rakshak-kunchum" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "deepak-udaykumar" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   googlescholar    : 
   pinterest        :
   soundcloud       :
