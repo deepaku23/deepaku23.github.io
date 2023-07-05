@@ -4,7 +4,7 @@ collection: code
 permalink: /code/air_pollution
 excerpt: "*Northeastern University*<br><br>Time Series Forecasting for US Air Pollution Data.<br><b>Skills</b>: Time Series techniques - Naive methods, Average methods, SARIMAX, LSTM, Python data manipulation."
 year: 2023
-repo: "https://github.com/krakshak/US-Air-pollution-Time-Series-Analysis"
+repo: 
 ---
 
 ##Summary

@@ -2,9 +2,9 @@
 title: "Deep Learning approach to detect distracted drivers"
 collection: code
 permalink: /code/distracted_driver
-excerpt: "*BMS College of Engineering*<br><br>Built variations of the CNN model to ascertain the detection distracted drivers.<br><b>Skills</b>: Python data manipulation - Numpy, Pandas, Deep Learning - CNN (Classification and Detection)."
+excerpt: "Built variations of the CNN model to ascertain the detection distracted drivers.<br><b>Skills</b>: Python data manipulation - Numpy, Pandas, Deep Learning - CNN (Classification and Detection)."
 year: 2020
-repo: "https://github.com/krakshak/kaggle-distracted-driver-detection"
+repo: 
 ---
 
 ##Summary

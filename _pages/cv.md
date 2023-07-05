@@ -13,8 +13,9 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/Rakshak_Kunchum.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="../files/Deepak_Udayakumar.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
+<!--
 ## Education
 ---
 **2023 - Present**<br>
@@ -89,3 +90,5 @@ Data Science Hub, Northeastern Graduate Student Government, Badminton, Hiking, E
 ## Service and Outreach
 **Volunteer** in the Rotaract club’s *I-Teach initiative*-<br>
 Helped underprivileged students by teaching them elementary subjects.<br>
+
+-->
