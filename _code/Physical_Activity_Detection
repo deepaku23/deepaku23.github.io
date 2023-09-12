@@ -1,0 +1,13 @@
+---
+title: "Physical Activity Prediction and Real-time Deployment on AWS EC2| "
+collection: code
+permalink: /code/Physical_Activity_Detection
+excerpt: "Leveraged machine learning algorithms and deep learning (Neural Networks) to predict physical activity."
+year: 2022
+repo: 
+---
+
+##Summary
+---
+
+Leveraged machine learning algorithms and deep learning (Neural Networks) to predict physical activity. Deployed the best-performing model (Random Forest) on Amazon EC2 instance, implemented APIs for real-time predictions, ensuring a robust and scalable solution for physical activity monitoring.

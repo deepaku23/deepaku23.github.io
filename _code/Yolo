@@ -1,0 +1,13 @@
+---
+title: "Street Sense: Real-Time Object Detection on Urban Roads"
+collection: code
+permalink: /code/Yolo
+excerpt: "Implemented an object detection model to detect and track vehicles, pedestrians, and other objects in busy streets, thereby assisting in the optimization of traffic flow, improvement of road safety, and enhancement of overall urban planning."
+year: 2023
+repo: 
+---
+
+##Summary
+---
+
+Implemented an object detection model to detect and track vehicles, pedestrians, and other objects in busy streets, thereby assisting in the optimization of traffic flow, improvement of road safety, and enhancement of overall urban planning. Improved the model accuracy by filtering low-score detections and managing overlaps, yielding a more precise output.
