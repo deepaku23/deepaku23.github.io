@@ -13,7 +13,7 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="" class="uline">Click here for a full pdf copy of my CV</a>
+
 
 <!--
 ## Education
